@@ -1,4 +1,3 @@
-﻿using System.Collections.Generic;
 using Identity.Data;
 using Microsoft.EntityFrameworkCore;
 using MyApp.Application.Cart.DTOs.Requests;
@@ -128,65 +127,6 @@ public class CartService : ICartService
             };
             return ServiceResult<CartProductResponse>.Success(cartProductResponse, "Added to cart!");
         }
-        catch (DbUpdateConcurrencyException ex)
-        {
-
-            foreach (var entry in ex.Entries)
-            {
-                if (entry.Entity is ProductEntity)
-                {
-
-                    product = await _context.Products.FirstOrDefaultAsync(product => product.Id == cartProduct.ProductId);
-                    if (product == null)
-                    {
-                        await transaction.RollbackAsync();
-                        return ServiceResult<CartProductResponse>.Failure(
-                            BusinessErrorType.ResourceNotFound, "Product not found");
-                    }
-
-                    // Check stock WITHIN transaction (most up-to-date)
-                    if (product.StockQuantity < cartProduct.Quantity)
-                    {
-                        await transaction.RollbackAsync();
-                        return ServiceResult<CartProductResponse>.Failure(
-                            BusinessErrorType.OperationNotAllowed,
-                            $"Only {product.StockQuantity} items available. Please adjust quantity.");
-                    }
-                    else
-                    {
-                        cartProduct.Product = product;
-                        await _context.SaveChangesAsync();
-                        await transaction.CommitAsync();
-                        var cartProductResponse = new CartProductResponse()
-                        {
-                            Id = cartProduct.Id,
-                            Quantity = cartProduct.Quantity,
-                            Product = new ProductResponseDto
-                            {
-                                Id = product.Id,
-                                Name = product.Name,
-                                Description = product.Description,
-                                Price = product.Price,
-                                SubCategoryId = product.SubCategory.Id,
-                                SubCategoryName = product.SubCategory.Name,
-                                ApplicationUserId = product.ApplicationUserId,
-                                ProductState = product.ProductState,
-                                UpdatedAt = product.UpdatedAt,
-                                // Load images in the same query 
-                                ProductImageUrls = product.ProductImages
-                                         .Select(pi => "uploads/products/" + pi.StoredName)
-                                         .ToList()
-                            }
-                        };
-                        return ServiceResult<CartProductResponse>.Success(cartProductResponse, "Added to cart!");
-                    }
-                }
-            }
-
-            throw;
-
-
-        }
         catch (Exception ex)
         {
             try
@@ -271,66 +211,6 @@ public class CartService : ICartService
 
             return ServiceResult<CartProductResponse>.Success(cartProductResponse, "Added to cart!");
         }
-        catch (DbUpdateConcurrencyException ex)
-        {
-
-            foreach (var entry in ex.Entries)
-            {
-                if (entry.Entity is ProductEntity)
-                {
-
-                    product = await _context.Products.FirstOrDefaultAsync(product => product.Id == cartItem.ProductId);
-                    if (product == null)
-                    {
-                        await transaction.RollbackAsync();
-                        return ServiceResult<CartProductResponse>.Failure(
-                            BusinessErrorType.ResourceNotFound, "Product not found");
-                    }
-
-                    // Check stock WITHIN transaction (most up-to-date)
-                    if (product.StockQuantity < cartItem.Quantity)
-                    {
-                        await transaction.RollbackAsync();
-                        return ServiceResult<CartProductResponse>.Failure(
-                            BusinessErrorType.OperationNotAllowed,
-                            $"Only {product.StockQuantity} items available. Please adjust quantity.");
-                    }
-                    else
-                    {
-                  
-                        await _context.SaveChangesAsync();
-                        await transaction.CommitAsync();
-                        var cartProductResponse = new CartProductResponse()
-                        {
-                            Id = cartItem.Id,
-                            Quantity = cartItem.Quantity,
-                            Product = new ProductResponseDto
-                            {
-                                Id = product.Id,
-                                Name = product.Name,
-                                Description = product.Description,
-                                Price = product.Price,
-                                SubCategoryId = product.SubCategory.Id,
-                                SubCategoryName = product.SubCategory.Name,
-                                ApplicationUserId = product.ApplicationUserId,
-                                ProductState = product.ProductState,
-                                UpdatedAt = product.UpdatedAt,
-                                // Load images in the same query 
-                                ProductImageUrls = product.ProductImages
-                 .Select(pi => "uploads/products/" + pi.StoredName)
-                 .ToList()
-                            }
-                        };
-
-                        return ServiceResult<CartProductResponse>.Success(cartProductResponse, "Added to cart!");
-                    }
-                }
-            }
-
-            throw;
-
-
-        }
         catch (Exception ex)
         {
             try
@@ -413,3 +293,18 @@ public class CartService : ICartService
     }
 }
 
+/*
+ * For Orders
+============================= 
+Initial stock: 10 units
+============================= 
+
+Before payment: 
+  - Reserve: Stock = 9 (temporarily), ReservedCount = 1
+
+On payment success:
+  - Keep stock at 9, clear reservation flag
+
+On payment failure:
+  - Release: Stock = 10, ReservedCount = 0
+*/
