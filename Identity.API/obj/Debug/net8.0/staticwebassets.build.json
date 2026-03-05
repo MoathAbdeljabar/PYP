@@ -1,0 +1,640 @@
+{
+  "Version": 1,
+  "Hash": "DpBa2UVjcqmEzN6ocY8CPFzH9tHt23GCB5QhpxExNzQ=",
+  "Source": "MyApp.API",
+  "BasePath": "_content/MyApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyApp.API\\wwwroot",
+      "Source": "MyApp.API",
+      "ContentRoot": "C:\\Users\\Moath Abdeljabar\\Music\\PC\\020326\\SE\\SE\\CS\\6-Identity\\Files\\Projects\\ECom\\NewProj\\IdentitySln\\Identity.API\\wwwroot\\",
+      "BasePath": "_content/MyApp.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Moath Abdeljabar\\Music\\PC\\020326\\SE\\SE\\CS\\6-Identity\\Files\\Projects\\ECom\\NewProj\\IdentitySln\\Identity.API\\wwwroot\\icons\\ProductCategory\\48f3a0f0-e579-4907-8da2-db7a88a2a432.png",
+      "SourceId": "MyApp.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Moath Abdeljabar\\Music\\PC\\020326\\SE\\SE\\CS\\6-Identity\\Files\\Projects\\ECom\\NewProj\\IdentitySln\\Identity.API\\wwwroot\\",
+      "BasePath": "_content/MyApp.API",
+      "RelativePath": "icons/ProductCategory/48f3a0f0-e579-4907-8da2-db7a88a2a432#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2ycezgy02j",
+      "Integrity": "Cpwjw0rjDXZcIj9Hy6d0Za1shqLxBuvAPNs72/XQMLU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\icons\\ProductCategory\\48f3a0f0-e579-4907-8da2-db7a88a2a432.png"
+    },
+    {
+      "Identity": "C:\\Users\\Moath Abdeljabar\\Music\\PC\\020326\\SE\\SE\\CS\\6-Identity\\Files\\Projects\\ECom\\NewProj\\IdentitySln\\Identity.API\\wwwroot\\icons\\ProductCategory\\4f93b806-2e1f-469a-98af-2b8538b27152.png",
+      "SourceId": "MyApp.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Moath Abdeljabar\\Music\\PC\\020326\\SE\\SE\\CS\\6-Identity\\Files\\Projects\\ECom\\NewProj\\IdentitySln\\Identity.API\\wwwroot\\",
+      "BasePath": "_content/MyApp.API",
+      "RelativePath": "icons/ProductCategory/4f93b806-2e1f-469a-98af-2b8538b27152#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4kl76r1mmj",
+      "Integrity": "5AopjAIen0M4u+3nGH2SuW0HgSGQzuxh3Cpgfgwb4GE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\icons\\ProductCategory\\4f93b806-2e1f-469a-98af-2b8538b27152.png"
+    },
+    {
+      "Identity": "C:\\Users\\Moath Abdeljabar\\Music\\PC\\020326\\SE\\SE\\CS\\6-Identity\\Files\\Projects\\ECom\\NewProj\\IdentitySln\\Identity.API\\wwwroot\\icons\\SubCategory\\5d88375c-6eb9-4c74-8ec3-0b1c89526bf5.png",
+      "SourceId": "MyApp.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Moath Abdeljabar\\Music\\PC\\020326\\SE\\SE\\CS\\6-Identity\\Files\\Projects\\ECom\\NewProj\\IdentitySln\\Identity.API\\wwwroot\\",
+      "BasePath": "_content/MyApp.API",
+      "RelativePath": "icons/SubCategory/5d88375c-6eb9-4c74-8ec3-0b1c89526bf5#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ee5vyhxhdx",
+      "Integrity": "FsMW8YHxwVpLSc0xo4sca7FCWCVDhwj1goVoFCeKSow=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\icons\\SubCategory\\5d88375c-6eb9-4c74-8ec3-0b1c89526bf5.png"
+    },
+    {
+      "Identity": "C:\\Users\\Moath Abdeljabar\\Music\\PC\\020326\\SE\\SE\\CS\\6-Identity\\Files\\Projects\\ECom\\NewProj\\IdentitySln\\Identity.API\\wwwroot\\icons\\SubCategory\\ce814e40-6bb6-42c9-a922-85c703c17f34.jpg",
+      "SourceId": "MyApp.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Moath Abdeljabar\\Music\\PC\\020326\\SE\\SE\\CS\\6-Identity\\Files\\Projects\\ECom\\NewProj\\IdentitySln\\Identity.API\\wwwroot\\",
+      "BasePath": "_content/MyApp.API",
+      "RelativePath": "icons/SubCategory/ce814e40-6bb6-42c9-a922-85c703c17f34#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x49vwhe90e",
+      "Integrity": "AWSKfLWJTIMMdnpOkZl92ECs2HeugTXxaqBWOPzffXo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\icons\\SubCategory\\ce814e40-6bb6-42c9-a922-85c703c17f34.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Moath Abdeljabar\\Music\\PC\\020326\\SE\\SE\\CS\\6-Identity\\Files\\Projects\\ECom\\NewProj\\IdentitySln\\Identity.API\\wwwroot\\uploads\\products\\6b9a62f8-9cb1-4774-ad05-d8eb719fbee4.png",
+      "SourceId": "MyApp.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Moath Abdeljabar\\Music\\PC\\020326\\SE\\SE\\CS\\6-Identity\\Files\\Projects\\ECom\\NewProj\\IdentitySln\\Identity.API\\wwwroot\\",
+      "BasePath": "_content/MyApp.API",
+      "RelativePath": "uploads/products/6b9a62f8-9cb1-4774-ad05-d8eb719fbee4#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lf302uuo7v",
+      "Integrity": "YWtfTfxVdtpY5UzElfa4LrSPrESyQuh5B0h8W46bguE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\6b9a62f8-9cb1-4774-ad05-d8eb719fbee4.png"
+    },
+    {
+      "Identity": "C:\\Users\\Moath Abdeljabar\\Music\\PC\\020326\\SE\\SE\\CS\\6-Identity\\Files\\Projects\\ECom\\NewProj\\IdentitySln\\Identity.API\\wwwroot\\uploads\\products\\bc16d8c8-142f-416e-94cc-c682f88aa1f7.png",
+      "SourceId": "MyApp.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Moath Abdeljabar\\Music\\PC\\020326\\SE\\SE\\CS\\6-Identity\\Files\\Projects\\ECom\\NewProj\\IdentitySln\\Identity.API\\wwwroot\\",
+      "BasePath": "_content/MyApp.API",
+      "RelativePath": "uploads/products/bc16d8c8-142f-416e-94cc-c682f88aa1f7#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lf302uuo7v",
+      "Integrity": "YWtfTfxVdtpY5UzElfa4LrSPrESyQuh5B0h8W46bguE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\bc16d8c8-142f-416e-94cc-c682f88aa1f7.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "icons/ProductCategory/48f3a0f0-e579-4907-8da2-db7a88a2a432.2ycezgy02j.png",
+      "AssetFile": "C:\\Users\\Moath Abdeljabar\\Music\\PC\\020326\\SE\\SE\\CS\\6-Identity\\Files\\Projects\\ECom\\NewProj\\IdentitySln\\Identity.API\\wwwroot\\icons\\ProductCategory\\48f3a0f0-e579-4907-8da2-db7a88a2a432.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cpwjw0rjDXZcIj9Hy6d0Za1shqLxBuvAPNs72/XQMLU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 Jan 2026 09:04:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2ycezgy02j"
+        },
+        {
+          "Name": "label",
+          "Value": "icons/ProductCategory/48f3a0f0-e579-4907-8da2-db7a88a2a432.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cpwjw0rjDXZcIj9Hy6d0Za1shqLxBuvAPNs72/XQMLU="
+        }
+      ]
+    },
+    {
+      "Route": "icons/ProductCategory/48f3a0f0-e579-4907-8da2-db7a88a2a432.png",
+      "AssetFile": "C:\\Users\\Moath Abdeljabar\\Music\\PC\\020326\\SE\\SE\\CS\\6-Identity\\Files\\Projects\\ECom\\NewProj\\IdentitySln\\Identity.API\\wwwroot\\icons\\ProductCategory\\48f3a0f0-e579-4907-8da2-db7a88a2a432.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cpwjw0rjDXZcIj9Hy6d0Za1shqLxBuvAPNs72/XQMLU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 Jan 2026 09:04:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cpwjw0rjDXZcIj9Hy6d0Za1shqLxBuvAPNs72/XQMLU="
+        }
+      ]
+    },
+    {
+      "Route": "icons/ProductCategory/4f93b806-2e1f-469a-98af-2b8538b27152.4kl76r1mmj.png",
+      "AssetFile": "C:\\Users\\Moath Abdeljabar\\Music\\PC\\020326\\SE\\SE\\CS\\6-Identity\\Files\\Projects\\ECom\\NewProj\\IdentitySln\\Identity.API\\wwwroot\\icons\\ProductCategory\\4f93b806-2e1f-469a-98af-2b8538b27152.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2419"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5AopjAIen0M4u+3nGH2SuW0HgSGQzuxh3Cpgfgwb4GE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 25 Dec 2025 09:31:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4kl76r1mmj"
+        },
+        {
+          "Name": "label",
+          "Value": "icons/ProductCategory/4f93b806-2e1f-469a-98af-2b8538b27152.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5AopjAIen0M4u+3nGH2SuW0HgSGQzuxh3Cpgfgwb4GE="
+        }
+      ]
+    },
+    {
+      "Route": "icons/ProductCategory/4f93b806-2e1f-469a-98af-2b8538b27152.png",
+      "AssetFile": "C:\\Users\\Moath Abdeljabar\\Music\\PC\\020326\\SE\\SE\\CS\\6-Identity\\Files\\Projects\\ECom\\NewProj\\IdentitySln\\Identity.API\\wwwroot\\icons\\ProductCategory\\4f93b806-2e1f-469a-98af-2b8538b27152.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2419"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5AopjAIen0M4u+3nGH2SuW0HgSGQzuxh3Cpgfgwb4GE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 25 Dec 2025 09:31:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5AopjAIen0M4u+3nGH2SuW0HgSGQzuxh3Cpgfgwb4GE="
+        }
+      ]
+    },
+    {
+      "Route": "icons/SubCategory/5d88375c-6eb9-4c74-8ec3-0b1c89526bf5.ee5vyhxhdx.png",
+      "AssetFile": "C:\\Users\\Moath Abdeljabar\\Music\\PC\\020326\\SE\\SE\\CS\\6-Identity\\Files\\Projects\\ECom\\NewProj\\IdentitySln\\Identity.API\\wwwroot\\icons\\SubCategory\\5d88375c-6eb9-4c74-8ec3-0b1c89526bf5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FsMW8YHxwVpLSc0xo4sca7FCWCVDhwj1goVoFCeKSow=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 Jan 2026 09:06:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ee5vyhxhdx"
+        },
+        {
+          "Name": "label",
+          "Value": "icons/SubCategory/5d88375c-6eb9-4c74-8ec3-0b1c89526bf5.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FsMW8YHxwVpLSc0xo4sca7FCWCVDhwj1goVoFCeKSow="
+        }
+      ]
+    },
+    {
+      "Route": "icons/SubCategory/5d88375c-6eb9-4c74-8ec3-0b1c89526bf5.png",
+      "AssetFile": "C:\\Users\\Moath Abdeljabar\\Music\\PC\\020326\\SE\\SE\\CS\\6-Identity\\Files\\Projects\\ECom\\NewProj\\IdentitySln\\Identity.API\\wwwroot\\icons\\SubCategory\\5d88375c-6eb9-4c74-8ec3-0b1c89526bf5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FsMW8YHxwVpLSc0xo4sca7FCWCVDhwj1goVoFCeKSow=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 Jan 2026 09:06:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FsMW8YHxwVpLSc0xo4sca7FCWCVDhwj1goVoFCeKSow="
+        }
+      ]
+    },
+    {
+      "Route": "icons/SubCategory/ce814e40-6bb6-42c9-a922-85c703c17f34.jpg",
+      "AssetFile": "C:\\Users\\Moath Abdeljabar\\Music\\PC\\020326\\SE\\SE\\CS\\6-Identity\\Files\\Projects\\ECom\\NewProj\\IdentitySln\\Identity.API\\wwwroot\\icons\\SubCategory\\ce814e40-6bb6-42c9-a922-85c703c17f34.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89969"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AWSKfLWJTIMMdnpOkZl92ECs2HeugTXxaqBWOPzffXo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 25 Dec 2025 09:32:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AWSKfLWJTIMMdnpOkZl92ECs2HeugTXxaqBWOPzffXo="
+        }
+      ]
+    },
+    {
+      "Route": "icons/SubCategory/ce814e40-6bb6-42c9-a922-85c703c17f34.x49vwhe90e.jpg",
+      "AssetFile": "C:\\Users\\Moath Abdeljabar\\Music\\PC\\020326\\SE\\SE\\CS\\6-Identity\\Files\\Projects\\ECom\\NewProj\\IdentitySln\\Identity.API\\wwwroot\\icons\\SubCategory\\ce814e40-6bb6-42c9-a922-85c703c17f34.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89969"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AWSKfLWJTIMMdnpOkZl92ECs2HeugTXxaqBWOPzffXo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 25 Dec 2025 09:32:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x49vwhe90e"
+        },
+        {
+          "Name": "label",
+          "Value": "icons/SubCategory/ce814e40-6bb6-42c9-a922-85c703c17f34.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AWSKfLWJTIMMdnpOkZl92ECs2HeugTXxaqBWOPzffXo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/6b9a62f8-9cb1-4774-ad05-d8eb719fbee4.lf302uuo7v.png",
+      "AssetFile": "C:\\Users\\Moath Abdeljabar\\Music\\PC\\020326\\SE\\SE\\CS\\6-Identity\\Files\\Projects\\ECom\\NewProj\\IdentitySln\\Identity.API\\wwwroot\\uploads\\products\\6b9a62f8-9cb1-4774-ad05-d8eb719fbee4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "367382"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YWtfTfxVdtpY5UzElfa4LrSPrESyQuh5B0h8W46bguE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 Jan 2026 09:15:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lf302uuo7v"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/6b9a62f8-9cb1-4774-ad05-d8eb719fbee4.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YWtfTfxVdtpY5UzElfa4LrSPrESyQuh5B0h8W46bguE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/6b9a62f8-9cb1-4774-ad05-d8eb719fbee4.png",
+      "AssetFile": "C:\\Users\\Moath Abdeljabar\\Music\\PC\\020326\\SE\\SE\\CS\\6-Identity\\Files\\Projects\\ECom\\NewProj\\IdentitySln\\Identity.API\\wwwroot\\uploads\\products\\6b9a62f8-9cb1-4774-ad05-d8eb719fbee4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "367382"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YWtfTfxVdtpY5UzElfa4LrSPrESyQuh5B0h8W46bguE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 Jan 2026 09:15:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YWtfTfxVdtpY5UzElfa4LrSPrESyQuh5B0h8W46bguE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/bc16d8c8-142f-416e-94cc-c682f88aa1f7.lf302uuo7v.png",
+      "AssetFile": "C:\\Users\\Moath Abdeljabar\\Music\\PC\\020326\\SE\\SE\\CS\\6-Identity\\Files\\Projects\\ECom\\NewProj\\IdentitySln\\Identity.API\\wwwroot\\uploads\\products\\bc16d8c8-142f-416e-94cc-c682f88aa1f7.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "367382"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YWtfTfxVdtpY5UzElfa4LrSPrESyQuh5B0h8W46bguE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 Jan 2026 09:12:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lf302uuo7v"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/bc16d8c8-142f-416e-94cc-c682f88aa1f7.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YWtfTfxVdtpY5UzElfa4LrSPrESyQuh5B0h8W46bguE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/bc16d8c8-142f-416e-94cc-c682f88aa1f7.png",
+      "AssetFile": "C:\\Users\\Moath Abdeljabar\\Music\\PC\\020326\\SE\\SE\\CS\\6-Identity\\Files\\Projects\\ECom\\NewProj\\IdentitySln\\Identity.API\\wwwroot\\uploads\\products\\bc16d8c8-142f-416e-94cc-c682f88aa1f7.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "367382"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YWtfTfxVdtpY5UzElfa4LrSPrESyQuh5B0h8W46bguE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 Jan 2026 09:12:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YWtfTfxVdtpY5UzElfa4LrSPrESyQuh5B0h8W46bguE="
+        }
+      ]
+    }
+  ]
+}

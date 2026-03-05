@@ -1,0 +1,6 @@
+wwwroot\icons\ProductCategory\48f3a0f0-e579-4907-8da2-db7a88a2a432.png
+wwwroot\icons\ProductCategory\4f93b806-2e1f-469a-98af-2b8538b27152.png
+wwwroot\icons\SubCategory\5d88375c-6eb9-4c74-8ec3-0b1c89526bf5.png
+wwwroot\icons\SubCategory\ce814e40-6bb6-42c9-a922-85c703c17f34.jpg
+wwwroot\uploads\products\6b9a62f8-9cb1-4774-ad05-d8eb719fbee4.png
+wwwroot\uploads\products\bc16d8c8-142f-416e-94cc-c682f88aa1f7.png

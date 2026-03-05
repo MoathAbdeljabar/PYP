@@ -1,0 +1,121 @@
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.Domain\bin\Debug\net8.0\MyApp.Domain.deps.json
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.Domain\bin\Debug\net8.0\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.Domain\bin\Debug\net8.0\MyApp.Domain.pdb
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.AssemblyInfo.cs
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.Domain\obj\Debug\net8.0\refint\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.pdb
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.Domain\obj\Debug\net8.0\ref\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Music\IdentitySln\Identity.Domain\bin\Debug\net8.0\MyApp.Domain.deps.json
+C:\Users\Moath Abdeljabar\Music\IdentitySln\Identity.Domain\bin\Debug\net8.0\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Music\IdentitySln\Identity.Domain\bin\Debug\net8.0\MyApp.Domain.pdb
+C:\Users\Moath Abdeljabar\Music\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moath Abdeljabar\Music\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Moath Abdeljabar\Music\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.AssemblyInfo.cs
+C:\Users\Moath Abdeljabar\Music\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Moath Abdeljabar\Music\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Music\IdentitySln\Identity.Domain\obj\Debug\net8.0\refint\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Music\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.pdb
+C:\Users\Moath Abdeljabar\Music\IdentitySln\Identity.Domain\obj\Debug\net8.0\ref\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Music\PC\201225\Backend Core\Backend Core\9-Identity\Files\PYP\IdentitySln\Identity.Domain\bin\Debug\net8.0\MyApp.Domain.deps.json
+C:\Users\Moath Abdeljabar\Music\PC\201225\Backend Core\Backend Core\9-Identity\Files\PYP\IdentitySln\Identity.Domain\bin\Debug\net8.0\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Music\PC\201225\Backend Core\Backend Core\9-Identity\Files\PYP\IdentitySln\Identity.Domain\bin\Debug\net8.0\MyApp.Domain.pdb
+C:\Users\Moath Abdeljabar\Music\PC\201225\Backend Core\Backend Core\9-Identity\Files\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moath Abdeljabar\Music\PC\201225\Backend Core\Backend Core\9-Identity\Files\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Moath Abdeljabar\Music\PC\201225\Backend Core\Backend Core\9-Identity\Files\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.AssemblyInfo.cs
+C:\Users\Moath Abdeljabar\Music\PC\201225\Backend Core\Backend Core\9-Identity\Files\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Moath Abdeljabar\Music\PC\201225\Backend Core\Backend Core\9-Identity\Files\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Music\PC\201225\Backend Core\Backend Core\9-Identity\Files\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\refint\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Music\PC\201225\Backend Core\Backend Core\9-Identity\Files\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.pdb
+C:\Users\Moath Abdeljabar\Music\PC\201225\Backend Core\Backend Core\9-Identity\Files\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\ref\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Pictures\Projects\IdentitySln\Identity.Domain\bin\Debug\net8.0\MyApp.Domain.deps.json
+C:\Users\Moath Abdeljabar\Pictures\Projects\IdentitySln\Identity.Domain\bin\Debug\net8.0\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Pictures\Projects\IdentitySln\Identity.Domain\bin\Debug\net8.0\MyApp.Domain.pdb
+C:\Users\Moath Abdeljabar\Pictures\Projects\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moath Abdeljabar\Pictures\Projects\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Moath Abdeljabar\Pictures\Projects\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.AssemblyInfo.cs
+C:\Users\Moath Abdeljabar\Pictures\Projects\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Moath Abdeljabar\Pictures\Projects\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Pictures\Projects\IdentitySln\Identity.Domain\obj\Debug\net8.0\refint\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Pictures\Projects\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.pdb
+C:\Users\Moath Abdeljabar\Pictures\Projects\IdentitySln\Identity.Domain\obj\Debug\net8.0\ref\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Music\PC\030125\DEV\Backend Core\9-Identity\Files\PYP\IdentitySln\Identity.Domain\bin\Debug\net8.0\MyApp.Domain.deps.json
+C:\Users\Moath Abdeljabar\Music\PC\030125\DEV\Backend Core\9-Identity\Files\PYP\IdentitySln\Identity.Domain\bin\Debug\net8.0\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Music\PC\030125\DEV\Backend Core\9-Identity\Files\PYP\IdentitySln\Identity.Domain\bin\Debug\net8.0\MyApp.Domain.pdb
+C:\Users\Moath Abdeljabar\Music\PC\030125\DEV\Backend Core\9-Identity\Files\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moath Abdeljabar\Music\PC\030125\DEV\Backend Core\9-Identity\Files\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Moath Abdeljabar\Music\PC\030125\DEV\Backend Core\9-Identity\Files\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.AssemblyInfo.cs
+C:\Users\Moath Abdeljabar\Music\PC\030125\DEV\Backend Core\9-Identity\Files\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Moath Abdeljabar\Music\PC\030125\DEV\Backend Core\9-Identity\Files\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Music\PC\030125\DEV\Backend Core\9-Identity\Files\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\refint\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Music\PC\030125\DEV\Backend Core\9-Identity\Files\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.pdb
+C:\Users\Moath Abdeljabar\Music\PC\030125\DEV\Backend Core\9-Identity\Files\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\ref\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Projects\PYP\IdentitySln\Identity.Domain\bin\Debug\net8.0\MyApp.Domain.deps.json
+C:\Users\Moath Abdeljabar\Documents\DEV\Projects\PYP\IdentitySln\Identity.Domain\bin\Debug\net8.0\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Projects\PYP\IdentitySln\Identity.Domain\bin\Debug\net8.0\MyApp.Domain.pdb
+C:\Users\Moath Abdeljabar\Documents\DEV\Projects\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moath Abdeljabar\Documents\DEV\Projects\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Moath Abdeljabar\Documents\DEV\Projects\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.AssemblyInfo.cs
+C:\Users\Moath Abdeljabar\Documents\DEV\Projects\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Moath Abdeljabar\Documents\DEV\Projects\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Projects\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\refint\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Projects\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.pdb
+C:\Users\Moath Abdeljabar\Documents\DEV\Projects\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\ref\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Music\PC\070126\Backend Core\Backend Core\9-Identity\Files\Projects\NewProj\PYP\IdentitySln\Identity.Domain\bin\Debug\net8.0\MyApp.Domain.deps.json
+C:\Users\Moath Abdeljabar\Music\PC\070126\Backend Core\Backend Core\9-Identity\Files\Projects\NewProj\PYP\IdentitySln\Identity.Domain\bin\Debug\net8.0\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Music\PC\070126\Backend Core\Backend Core\9-Identity\Files\Projects\NewProj\PYP\IdentitySln\Identity.Domain\bin\Debug\net8.0\MyApp.Domain.pdb
+C:\Users\Moath Abdeljabar\Music\PC\070126\Backend Core\Backend Core\9-Identity\Files\Projects\NewProj\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moath Abdeljabar\Music\PC\070126\Backend Core\Backend Core\9-Identity\Files\Projects\NewProj\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Moath Abdeljabar\Music\PC\070126\Backend Core\Backend Core\9-Identity\Files\Projects\NewProj\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.AssemblyInfo.cs
+C:\Users\Moath Abdeljabar\Music\PC\070126\Backend Core\Backend Core\9-Identity\Files\Projects\NewProj\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Moath Abdeljabar\Music\PC\070126\Backend Core\Backend Core\9-Identity\Files\Projects\NewProj\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Music\PC\070126\Backend Core\Backend Core\9-Identity\Files\Projects\NewProj\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\refint\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Music\PC\070126\Backend Core\Backend Core\9-Identity\Files\Projects\NewProj\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.pdb
+C:\Users\Moath Abdeljabar\Music\PC\070126\Backend Core\Backend Core\9-Identity\Files\Projects\NewProj\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\ref\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Videos\NewProj\PYP\IdentitySln\Identity.Domain\bin\Debug\net8.0\MyApp.Domain.deps.json
+C:\Users\Moath Abdeljabar\Videos\NewProj\PYP\IdentitySln\Identity.Domain\bin\Debug\net8.0\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Videos\NewProj\PYP\IdentitySln\Identity.Domain\bin\Debug\net8.0\MyApp.Domain.pdb
+C:\Users\Moath Abdeljabar\Videos\NewProj\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moath Abdeljabar\Videos\NewProj\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Moath Abdeljabar\Videos\NewProj\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.AssemblyInfo.cs
+C:\Users\Moath Abdeljabar\Videos\NewProj\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Moath Abdeljabar\Videos\NewProj\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Videos\NewProj\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\refint\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Videos\NewProj\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.pdb
+C:\Users\Moath Abdeljabar\Videos\NewProj\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\ref\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Music\PC\260126\Backend Core26Jan26\Backend Core\9-Identity\Files\Projects\NewProj\NewProj\PYP\IdentitySln\Identity.Domain\bin\Debug\net8.0\MyApp.Domain.deps.json
+C:\Users\Moath Abdeljabar\Music\PC\260126\Backend Core26Jan26\Backend Core\9-Identity\Files\Projects\NewProj\NewProj\PYP\IdentitySln\Identity.Domain\bin\Debug\net8.0\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Music\PC\260126\Backend Core26Jan26\Backend Core\9-Identity\Files\Projects\NewProj\NewProj\PYP\IdentitySln\Identity.Domain\bin\Debug\net8.0\MyApp.Domain.pdb
+C:\Users\Moath Abdeljabar\Music\PC\260126\Backend Core26Jan26\Backend Core\9-Identity\Files\Projects\NewProj\NewProj\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moath Abdeljabar\Music\PC\260126\Backend Core26Jan26\Backend Core\9-Identity\Files\Projects\NewProj\NewProj\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Moath Abdeljabar\Music\PC\260126\Backend Core26Jan26\Backend Core\9-Identity\Files\Projects\NewProj\NewProj\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.AssemblyInfo.cs
+C:\Users\Moath Abdeljabar\Music\PC\260126\Backend Core26Jan26\Backend Core\9-Identity\Files\Projects\NewProj\NewProj\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Moath Abdeljabar\Music\PC\260126\Backend Core26Jan26\Backend Core\9-Identity\Files\Projects\NewProj\NewProj\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Music\PC\260126\Backend Core26Jan26\Backend Core\9-Identity\Files\Projects\NewProj\NewProj\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\refint\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Music\PC\260126\Backend Core26Jan26\Backend Core\9-Identity\Files\Projects\NewProj\NewProj\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.pdb
+C:\Users\Moath Abdeljabar\Music\PC\260126\Backend Core26Jan26\Backend Core\9-Identity\Files\Projects\NewProj\NewProj\PYP\IdentitySln\Identity.Domain\obj\Debug\net8.0\ref\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Music\PC\230226\SE\SE\CS\6-Identity\Files\Projects\NewProj\IdentitySln\Identity.Domain\bin\Debug\net8.0\MyApp.Domain.deps.json
+C:\Users\Moath Abdeljabar\Music\PC\230226\SE\SE\CS\6-Identity\Files\Projects\NewProj\IdentitySln\Identity.Domain\bin\Debug\net8.0\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Music\PC\230226\SE\SE\CS\6-Identity\Files\Projects\NewProj\IdentitySln\Identity.Domain\bin\Debug\net8.0\MyApp.Domain.pdb
+C:\Users\Moath Abdeljabar\Music\PC\230226\SE\SE\CS\6-Identity\Files\Projects\NewProj\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moath Abdeljabar\Music\PC\230226\SE\SE\CS\6-Identity\Files\Projects\NewProj\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Moath Abdeljabar\Music\PC\230226\SE\SE\CS\6-Identity\Files\Projects\NewProj\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.AssemblyInfo.cs
+C:\Users\Moath Abdeljabar\Music\PC\230226\SE\SE\CS\6-Identity\Files\Projects\NewProj\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Moath Abdeljabar\Music\PC\230226\SE\SE\CS\6-Identity\Files\Projects\NewProj\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Music\PC\230226\SE\SE\CS\6-Identity\Files\Projects\NewProj\IdentitySln\Identity.Domain\obj\Debug\net8.0\refint\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Music\PC\230226\SE\SE\CS\6-Identity\Files\Projects\NewProj\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.pdb
+C:\Users\Moath Abdeljabar\Music\PC\230226\SE\SE\CS\6-Identity\Files\Projects\NewProj\IdentitySln\Identity.Domain\obj\Debug\net8.0\ref\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Music\PC\020326\SE\SE\CS\6-Identity\Files\Projects\ECom\NewProj\IdentitySln\Identity.Domain\bin\Debug\net8.0\MyApp.Domain.deps.json
+C:\Users\Moath Abdeljabar\Music\PC\020326\SE\SE\CS\6-Identity\Files\Projects\ECom\NewProj\IdentitySln\Identity.Domain\bin\Debug\net8.0\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Music\PC\020326\SE\SE\CS\6-Identity\Files\Projects\ECom\NewProj\IdentitySln\Identity.Domain\bin\Debug\net8.0\MyApp.Domain.pdb
+C:\Users\Moath Abdeljabar\Music\PC\020326\SE\SE\CS\6-Identity\Files\Projects\ECom\NewProj\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moath Abdeljabar\Music\PC\020326\SE\SE\CS\6-Identity\Files\Projects\ECom\NewProj\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Moath Abdeljabar\Music\PC\020326\SE\SE\CS\6-Identity\Files\Projects\ECom\NewProj\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.AssemblyInfo.cs
+C:\Users\Moath Abdeljabar\Music\PC\020326\SE\SE\CS\6-Identity\Files\Projects\ECom\NewProj\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Moath Abdeljabar\Music\PC\020326\SE\SE\CS\6-Identity\Files\Projects\ECom\NewProj\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Music\PC\020326\SE\SE\CS\6-Identity\Files\Projects\ECom\NewProj\IdentitySln\Identity.Domain\obj\Debug\net8.0\refint\MyApp.Domain.dll
+C:\Users\Moath Abdeljabar\Music\PC\020326\SE\SE\CS\6-Identity\Files\Projects\ECom\NewProj\IdentitySln\Identity.Domain\obj\Debug\net8.0\MyApp.Domain.pdb
+C:\Users\Moath Abdeljabar\Music\PC\020326\SE\SE\CS\6-Identity\Files\Projects\ECom\NewProj\IdentitySln\Identity.Domain\obj\Debug\net8.0\ref\MyApp.Domain.dll

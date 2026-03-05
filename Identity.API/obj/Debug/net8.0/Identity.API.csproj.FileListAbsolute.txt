@@ -1,0 +1,562 @@
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.csproj.AssemblyReference.cache
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.AssemblyInfoInputs.cache
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.AssemblyInfo.cs
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.csproj.CoreCompileInputs.cache
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\obj\Debug\net8.0\refint\Identity.API.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.pdb
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\appsettings.json
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.API.staticwebassets.endpoints.json
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.API.exe
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.API.deps.json
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.API.runtimeconfig.json
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.API.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.API.pdb
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.Application.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.Data.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.Application.pdb
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.Data.pdb
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\obj\Debug\net8.0\scopedcss\bundle\Identity.API.styles.css
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.FA0E42A3.Up2Date
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.genruntimeconfig.cache
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\obj\Debug\net8.0\ref\Identity.API.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\MailKit.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\MimeKit.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\appsettings.json
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.API.staticwebassets.endpoints.json
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.API.exe
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.API.deps.json
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.API.runtimeconfig.json
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.API.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.API.pdb
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\MailKit.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\MimeKit.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\QRCoder.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.Application.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.Data.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.Domain.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.Application.pdb
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.Data.pdb
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.Domain.pdb
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.csproj.AssemblyReference.cache
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.AssemblyInfoInputs.cache
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.AssemblyInfo.cs
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.csproj.CoreCompileInputs.cache
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\obj\Debug\net8.0\scopedcss\bundle\Identity.API.styles.css
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.FA0E42A3.Up2Date
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\obj\Debug\net8.0\refint\Identity.API.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.pdb
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.genruntimeconfig.cache
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.API\obj\Debug\net8.0\ref\Identity.API.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\appsettings.json
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.API.staticwebassets.endpoints.json
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.API.exe
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.API.deps.json
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.API.runtimeconfig.json
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.API.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.API.pdb
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\MailKit.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\MimeKit.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\QRCoder.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.Application.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.Data.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.Domain.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.Application.pdb
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.Data.pdb
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.Domain.pdb
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.csproj.AssemblyReference.cache
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.AssemblyInfoInputs.cache
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.AssemblyInfo.cs
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.csproj.CoreCompileInputs.cache
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\scopedcss\bundle\Identity.API.styles.css
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\staticwebassets\msbuild.Identity.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\staticwebassets\msbuild.Identity.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Identity.API.props
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Identity.API.props
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Identity.API.props
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.FA0E42A3.Up2Date
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\refint\Identity.API.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.pdb
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.genruntimeconfig.cache
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\ref\Identity.API.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\appsettings.json
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.API.staticwebassets.endpoints.json
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.API.exe
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.API.deps.json
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.API.runtimeconfig.json
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.API.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.API.pdb
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\MailKit.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\MimeKit.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\QRCoder.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.Application.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.Data.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.Domain.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.Application.pdb
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.Data.pdb
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.Domain.pdb
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.csproj.AssemblyReference.cache
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.AssemblyInfoInputs.cache
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.AssemblyInfo.cs
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.csproj.CoreCompileInputs.cache
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\scopedcss\bundle\Identity.API.styles.css
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.FA0E42A3.Up2Date
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\refint\Identity.API.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.pdb
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.genruntimeconfig.cache
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\ref\Identity.API.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\appsettings.json
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.API.staticwebassets.endpoints.json
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.API.exe
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.API.deps.json
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.API.runtimeconfig.json
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.API.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.API.pdb
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\MailKit.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\MimeKit.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\QRCoder.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.Application.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.Data.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.Domain.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.Application.pdb
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.Data.pdb
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\bin\Debug\net8.0\Identity.Domain.pdb
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.csproj.AssemblyReference.cache
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.AssemblyInfoInputs.cache
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.AssemblyInfo.cs
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.csproj.CoreCompileInputs.cache
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\scopedcss\bundle\Identity.API.styles.css
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.FA0E42A3.Up2Date
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\refint\Identity.API.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.pdb
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\Identity.API.genruntimeconfig.cache
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.API\obj\Debug\net8.0\ref\Identity.API.dll

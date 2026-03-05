@@ -1,0 +1,55 @@
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.Domain\bin\Debug\net8.0\Identity.Domain.deps.json
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.Domain\bin\Debug\net8.0\Identity.Domain.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.Domain\bin\Debug\net8.0\Identity.Domain.pdb
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.Domain\obj\Debug\net8.0\Identity.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.Domain\obj\Debug\net8.0\Identity.Domain.AssemblyInfoInputs.cache
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.Domain\obj\Debug\net8.0\Identity.Domain.AssemblyInfo.cs
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.Domain\obj\Debug\net8.0\Identity.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.Domain\obj\Debug\net8.0\Identity.Domain.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.Domain\obj\Debug\net8.0\refint\Identity.Domain.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.Domain\obj\Debug\net8.0\Identity.Domain.pdb
+C:\Users\Moath Abdeljabar\Documents\NE Projects\IdentitySln\Identity.Domain\obj\Debug\net8.0\ref\Identity.Domain.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.Domain\bin\Debug\net8.0\Identity.Domain.deps.json
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.Domain\bin\Debug\net8.0\Identity.Domain.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.Domain\bin\Debug\net8.0\Identity.Domain.pdb
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.Domain\obj\Debug\net8.0\Identity.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.Domain\obj\Debug\net8.0\Identity.Domain.AssemblyInfoInputs.cache
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.Domain\obj\Debug\net8.0\Identity.Domain.AssemblyInfo.cs
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.Domain\obj\Debug\net8.0\Identity.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.Domain\obj\Debug\net8.0\Identity.Domain.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.Domain\obj\Debug\net8.0\refint\Identity.Domain.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.Domain\obj\Debug\net8.0\Identity.Domain.pdb
+C:\Users\Moath Abdeljabar\Documents\NE Projects\Identity Sln2\IdentitySln\Identity.Domain\obj\Debug\net8.0\ref\Identity.Domain.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.Domain\bin\Debug\net8.0\Identity.Domain.deps.json
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.Domain\bin\Debug\net8.0\Identity.Domain.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.Domain\bin\Debug\net8.0\Identity.Domain.pdb
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.Domain\obj\Debug\net8.0\Identity.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.Domain\obj\Debug\net8.0\Identity.Domain.AssemblyInfoInputs.cache
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.Domain\obj\Debug\net8.0\Identity.Domain.AssemblyInfo.cs
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.Domain\obj\Debug\net8.0\Identity.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.Domain\obj\Debug\net8.0\Identity.Domain.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.Domain\obj\Debug\net8.0\refint\Identity.Domain.dll
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.Domain\obj\Debug\net8.0\Identity.Domain.pdb
+C:\Users\Moath Abdeljabar\Music\PC\261125\Programming Core251125\Programming Core\11-Identity\Files\7_UpdateLogin\7_UpdateLogin\IdentitySln\Identity.Domain\obj\Debug\net8.0\ref\Identity.Domain.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.Domain\bin\Debug\net8.0\Identity.Domain.deps.json
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.Domain\bin\Debug\net8.0\Identity.Domain.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.Domain\bin\Debug\net8.0\Identity.Domain.pdb
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.Domain\obj\Debug\net8.0\Identity.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.Domain\obj\Debug\net8.0\Identity.Domain.AssemblyInfoInputs.cache
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.Domain\obj\Debug\net8.0\Identity.Domain.AssemblyInfo.cs
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.Domain\obj\Debug\net8.0\Identity.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.Domain\obj\Debug\net8.0\Identity.Domain.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.Domain\obj\Debug\net8.0\refint\Identity.Domain.dll
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.Domain\obj\Debug\net8.0\Identity.Domain.pdb
+C:\Users\Moath Abdeljabar\Documents\NE Projects\7_UpdateLoginNewUpdate\7_UpdateLogin\IdentitySln\Identity.Domain\obj\Debug\net8.0\ref\Identity.Domain.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.Domain\bin\Debug\net8.0\Identity.Domain.deps.json
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.Domain\bin\Debug\net8.0\Identity.Domain.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.Domain\bin\Debug\net8.0\Identity.Domain.pdb
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.Domain\obj\Debug\net8.0\Identity.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.Domain\obj\Debug\net8.0\Identity.Domain.AssemblyInfoInputs.cache
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.Domain\obj\Debug\net8.0\Identity.Domain.AssemblyInfo.cs
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.Domain\obj\Debug\net8.0\Identity.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.Domain\obj\Debug\net8.0\Identity.Domain.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.Domain\obj\Debug\net8.0\refint\Identity.Domain.dll
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.Domain\obj\Debug\net8.0\Identity.Domain.pdb
+C:\Users\Moath Abdeljabar\Documents\DEV\Programming Core_Old\Projects\7_UpdateLogin\IdentitySln\Identity.Domain\obj\Debug\net8.0\ref\Identity.Domain.dll
